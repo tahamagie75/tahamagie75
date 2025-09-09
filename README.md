@@ -25,6 +25,14 @@
   - أدوات الذكاء الاصطناعي (ChatGPT, GitHub Copilot, etc.)
 
 ---
+---
+
+### 📊 إحصائياتي على GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahamagie75&show_icons=true&theme=radical&hide_border=true&locale=ar" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamagie75&layout=compact&theme=radical&hide_border=true&locale=ar" alt="Top Languages" />
+</p>
 
 ### 📫 كيف تتواصل معي
 
